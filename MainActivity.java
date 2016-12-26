@@ -1,5 +1,3 @@
-Main Activity:
-
 package app.example.anubhav.weatherstruck;
 
 import android.os.Bundle;
