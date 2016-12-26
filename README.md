@@ -1,2 +1,4 @@
 # weatherstruck-app
-I have created this weather app using OPENWEATHERMAP API and Google Map Location, it shows detailed weekly forecast. Weather details can be shared by user’s choice of app.
+WeatherStruck application project was completed during "Developing Mobile Application on Android" training at NIIT Jaipur.
+Created using Android Studio 2.1.3, OPENWEATHERMAP API and Google Map Location, it shows detailed weekly forecast. 
+Weather details can be shared by user’s choice of app.
